@@ -20,5 +20,6 @@ int main(void)
 		printf("The coordinate point (%d,%d) lies in the First quadrant.\n", x, y);
 	else
 		printf("The coordinate point is undetermined!\n");
+
 	return (0);
 }
